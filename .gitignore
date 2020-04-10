@@ -1,6 +1,7 @@
 credentials.json
 .DS_Store
 *.zip
+data.nosync/
 data/
 
 # Byte-compiled / optimized / DLL files
